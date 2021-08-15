@@ -1,5 +1,5 @@
 #include <iostream>
-#include "LibMat.h"
+#include "ECpp_5_2_LibMat.h"
 
 using namespace std;
 
